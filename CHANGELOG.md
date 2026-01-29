@@ -1,7 +1,7 @@
 <a name="unreleased"></a>
 ## [Unreleased]
 
-### Features
+### Features 2
 
 - Add Docker registry and podLabels to helm chart ([#246](https://github.com/epam/edp-codebase-operator/issues/246))
 
